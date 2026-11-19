@@ -1,4 +1,15 @@
+# 💫 Hi 👋, I'm Umar Iqbal
+**Aspiring Data Analyst | Excel | SQL | MySQL | Power BI**
 
+📊 Passionate about transforming raw data into meaningful insights and building interactive dashboards.
+
+- 🔭 **I’m currently working on:** Data Analytics & Power BI Projects
+- 🌱 **I’m currently learning:** Advanced SQL & Power BI
+- 👯 **I’m looking to collaborate on:** Data Analytics & Business Intelligence Projects
+- 🤝 **I’m looking for:** Data Analyst Opportunities & Freelance Projects
+- 💬 **Ask me about:** Excel, SQL, MySQL, Power BI & Data Visualization
+- 📫 **How to reach me:** LinkedIn / Email
+- ⚡ **Fun fact:** I love exploring data and turning numbers into stories! 📈
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/umar-iqbal10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:umrr010@gmail.com) 
 
@@ -10,7 +21,16 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=datawithumar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=datawithumar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
